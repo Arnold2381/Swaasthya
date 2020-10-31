@@ -37,7 +37,7 @@ Video Link:  https://www.youtube.com/watch?v=IzuBlxtOk2I&feature=emb_title
   
 ![Analytic](https://github.com/Anirudh1905/Swaasthya/blob/master/app/Analytic.jpeg)  
   
-
+![profile](https://github.com/Anirudh1905/Swaasthya/blob/master/app/profile.jpeg)
 
 
 
