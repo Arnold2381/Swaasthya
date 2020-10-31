@@ -19,7 +19,25 @@ Video Link:  https://www.youtube.com/watch?v=IzuBlxtOk2I&feature=emb_title
   
 ![signup](https://github.com/Anirudh1905/Swaasthya/blob/master/app/signup.jpeg)  
   
-![Login](https://github.com/Anirudh1905/Swaasthya/blob/master/app/Login.jpeg)
+![Login](https://github.com/Anirudh1905/Swaasthya/blob/master/app/Login.jpeg)  
+  
+![Personal Detail](https://github.com/Anirudh1905/Swaasthya/blob/master/app/Personal%20Detail.jpeg)  
+  
+![home](https://github.com/Anirudh1905/Swaasthya/blob/master/app/home.jpeg)  
+  
+![Map](https://github.com/Anirudh1905/Swaasthya/blob/master/app/Map.jpeg)  
+  
+![coronabot](https://github.com/Anirudh1905/Swaasthya/blob/master/app/coronabot.jpeg)  
+  
+![submit](https://github.com/Anirudh1905/Swaasthya/blob/master/app/submit.jpeg)  
+  
+![result](https://github.com/Anirudh1905/Swaasthya/blob/master/app/result.jpeg)  
+  
+![description](https://github.com/Anirudh1905/Swaasthya/blob/master/app/description.jpeg)  
+  
+![Analytic](https://github.com/Anirudh1905/Swaasthya/blob/master/app/Analytic.jpeg)  
+  
+
 
 
 
