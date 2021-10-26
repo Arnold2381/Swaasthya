@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:http/http.dart' as http;
 
 class ServiceProvider with ChangeNotifier {
@@ -13,7 +12,7 @@ class ServiceProvider with ChangeNotifier {
   String description;
 
   Future<void> getallresults() async {
-    var url = "https://swaasthya-back.herokuapp.com/api/testing/symptoms";
+    var url = "http://143.110.180.134/api/testing/symptoms";
     try {
       final response = await http.get(url);
       final extract = json.decode(response.body);
@@ -39,8 +38,7 @@ class ServiceProvider with ChangeNotifier {
     //print(list);
     //print(json.encode(list2));
 
-    var url =
-        "https://swaasthya-back.herokuapp.com/api/testing/predict-disease";
+    var url = "http://143.110.180.134/api/testing/predict-disease";
     if (send.length != 0)
       try {
         final response = await http.post(url,

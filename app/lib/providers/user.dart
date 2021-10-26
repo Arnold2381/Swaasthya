@@ -48,7 +48,7 @@ class MyUser with ChangeNotifier {
   }
 
   Future<bool> register(String name1, String email1, String pass1) async {
-    var url = "https://swaasthya-back.herokuapp.com/api/user/signup";
+    var url = "http://143.110.180.134/api/user/signup";
     print(name1);
     try {
       final response = await http.post(url,
@@ -75,7 +75,7 @@ class MyUser with ChangeNotifier {
   }
 
   Future<bool> login(String email1, String pass1) async {
-    var url = "https://swaasthya-back.herokuapp.com/api/user/login";
+    var url = "http://143.110.180.134/api/user/login";
 
     try {
       final response = await http.post(url,
@@ -101,7 +101,7 @@ class MyUser with ChangeNotifier {
 
   Future<bool> details(
       String heght, String weght, String sexy, String bloo, String dob) async {
-    var url = "https://swaasthya-back.herokuapp.com/api/profile/create";
+    var url = "http://143.110.180.134/api/profile/create";
     print(token);
     print(weght);
 
@@ -135,7 +135,7 @@ class MyUser with ChangeNotifier {
   }
 
   Future<bool> fetchProfile() async {
-    var url = "https://swaasthya-back.herokuapp.com/api/profile/fetch";
+    var url = "http://143.110.180.134/api/profile/fetch";
     print(token);
     try {
       final response = await http.get(
